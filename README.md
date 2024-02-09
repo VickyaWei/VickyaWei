@@ -1,4 +1,4 @@
-### Hi there 👋,I'm Vicky Wei.
+### Hi there 👋 I'm Vicky Wei.
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.

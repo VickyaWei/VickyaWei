@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
-- 💬 Ask me about anything related to Java/Python.
+- 💬 Ask me about anything related to Java.
 - 📫 How to reach me: vickyaa.wei@gmail.com
 
 
